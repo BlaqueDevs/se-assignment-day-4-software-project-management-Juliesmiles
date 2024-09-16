@@ -28,4 +28,4 @@ Those are the features that are your software's strengths and are not in other c
 ## 12. What data is available regarding the market size and growth potential for your software?
 Data regarding market size and growth potential should be based on credible sources and up-to-date statistics.
 ## 13. How can understanding market trends inform your software’s positioning and development?
-Understanding market trends helps you pitch your software correctly to investors allowing you to estimate profit and give investors encouragements to give you support.F
+Understanding market trends helps you pitch your software correctly to investors allowing you to estimate profit and give investors encouragements to give you support.
